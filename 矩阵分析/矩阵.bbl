@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{bourbaki1989algebra}
+Nicolas Bourbaki.
+\newblock {\em Algebra: Elements of Mathematics}.
+\newblock Springer-Verlag, 1989.
+
+\bibitem{ding2015generalized}
+Weiyang Ding and Yimin Wei.
+\newblock Generalized tensor eigenvalue problems.
+\newblock {\em SIAM Journal on Matrix Analysis and Applications},
+  36(3):1073--1099, 2015.
+
+\bibitem{lawden1982introduction}
+Derek~F Lawden.
+\newblock {\em Introduction to tensor calculus, relativity and cosmology}.
+\newblock Courier Corporation, 1982.
+
+\bibitem{lim2005singular}
+Lek-Heng Lim.
+\newblock Singular values and eigenvalues of tensors: a variational approach.
+\newblock In {\em Computational Advances in Multi-Sensor Adaptive Processing,
+  2005 1st IEEE International Workshop on}, pages 129--132. IEEE, 2005.
+
+\end{thebibliography}
